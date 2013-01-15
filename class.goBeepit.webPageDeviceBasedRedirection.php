@@ -5,7 +5,7 @@
  * @license http://unlicense.org/ - Please leave credits.
  */
 // Require the settings file
-require_once('settings.goBeepit.webPageDeviceBasedRedirection.php');
+require_once('class.goBeepit.webPageDeviceBasedRedirectionSettings.php');
 Class WebPageDeviceBasedRedirection
 {
 	// String The GET parameter key we're using
