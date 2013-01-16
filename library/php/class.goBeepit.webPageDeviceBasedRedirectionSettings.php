@@ -60,6 +60,24 @@ Class WebPageDeviceBasedRedirectionSettings
 	}
 	
 	/**
+	 * 
+	 * @param string $urlPrefix
+	 */
+	public static function setUrlPrefix($urlPrefix)
+	{
+		self::$urlPrefix = $urlPrefix;
+	}
+	
+	/**
+	 * 
+	 * @param string $urlSuffix
+	 */
+	public static function setUrlSuffix($urlSuffix)
+	{
+		self::$urlSuffix = $urlSuffix;
+	}
+	
+	/**
 	 * Set $mobileRedirect
 	 * @param boolean $mobileRedirect
 	 */
