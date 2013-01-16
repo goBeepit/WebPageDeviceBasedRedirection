@@ -7,7 +7,7 @@
 /* 
  * You can set these in the actual settings file OR use this handy setter function()
  * However, you'll need to require the settings file first.
- * So it's really best if you changed the actual settings in the settings file.
+ * So it's really best if you changed the actual settings in the settings file and then used the default example.
  * This is just to illustrate a point.
  */
 require_once('../../library/php/class.gobeepit.webPageDeviceBasedRedirectionSettings.php');

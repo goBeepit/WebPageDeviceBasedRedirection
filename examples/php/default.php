@@ -4,6 +4,11 @@
  * @link http://opensource.goBeepit.com
  * @license http://unlicense.org/ - Please leave credits.
  */
+/*
+ * This is the best way to use this class.
+ * All you need to do is go to to the settings file (class.goBeepit.webPageDeviceBasedRedirectionSettings.php
+ * And change the $urlSuffix value to your item's ID (i.e. $urlSuffix = 1071)
+ */
 require_once('../../library/php/class.gobeepit.webPageDeviceBasedRedirection.php');
 ?>
 <!DOCTYPE html>
