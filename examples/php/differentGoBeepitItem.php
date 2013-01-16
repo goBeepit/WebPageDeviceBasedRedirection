@@ -1,4 +1,9 @@
 <?php
+/**
+ * @author SimpleAnecdote
+ * @link http://opensource.goBeepit.com
+ * @license http://unlicense.org/ - Please leave credits.
+ */
 /*
  * You can set this in the actual settings file OR use this handy setter function()
  * However, you'll need to require the settings file first.
