@@ -60,7 +60,7 @@ Class WebPageDeviceBasedRedirectionSettings
 	}
 	
 	/**
-	 * 
+	 * Set $urlPrefix
 	 * @param string $urlPrefix
 	 */
 	public static function setUrlPrefix($urlPrefix)
@@ -69,7 +69,7 @@ Class WebPageDeviceBasedRedirectionSettings
 	}
 	
 	/**
-	 * 
+	 * Set $urlSuffix
 	 * @param string $urlSuffix
 	 */
 	public static function setUrlSuffix($urlSuffix)

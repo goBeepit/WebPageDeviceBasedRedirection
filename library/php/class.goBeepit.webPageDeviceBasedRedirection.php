@@ -123,7 +123,7 @@ Class WebPageDeviceBasedRedirection
 		}
 		else
 		{
-			$viewParam = '';
+			self::$viewParam = '';
 		}
 	}
 	
